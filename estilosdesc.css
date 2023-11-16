@@ -1,0 +1,19 @@
+h1 {
+    font-family:'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+    font-size: 300%;
+    border: 14px double rgb(243, 230, 114);
+}
+
+h5 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-align: center;
+    font-size: 150%;
+    font-style: oblique;
+}
+body {
+    background-color:rgb(255, 232, 201);
+}
+
